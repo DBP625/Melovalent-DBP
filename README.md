@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@dpantho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dpantho" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/denesh barua pantho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denesh barua pantho" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/denesh barua pantho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="denesh barua pantho" height="30" width="40" /></a>
-<a href="https://fb.com/denesh barua pantho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="denesh barua pantho" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/denesh-barua-pantho-280772239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denesh barua pantho" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18216470/denesh-barua-pantho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="denesh barua pantho" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100015267706651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="denesh barua pantho" height="30" width="40" /></a>
 <a href="https://discord.gg/dbp1811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dbp1811" height="30" width="40" /></a>
 </p>
 
