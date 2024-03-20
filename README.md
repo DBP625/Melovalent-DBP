@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@dpantho" target="blank"><img src="https://img.shields.io/twitter/follow/@dpantho?logo=twitter&style=for-the-badge" alt="@dpantho" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/Melovalent_DBP](https://linktr.ee/Melovalent_DBP)
+- 👨‍💻 All about me is available at [https://linktr.ee/Melovalent_DBP](https://linktr.ee/Melovalent_DBP)
 
 - 📫 How to reach me **pantho625@gmail.com**
 
