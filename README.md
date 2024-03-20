@@ -63,4 +63,4 @@
 <br>
 [![Anurag's GitHub stats-Dark]<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melovalent-dbp&show_icons=true&locale=en&theme=merko#gh-dark-mode-only" alt="melovalent-dbp" /></p>
 <br>
-[![Anurag's GitHub stats-Dark]<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melovalent-dbp&theme=merko#gh-dark-mode-only" alt="melovalent-dbp" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melovalent-dbp&theme=merko#gh-dark-mode-only" alt="melovalent-dbp" /></p>-->
