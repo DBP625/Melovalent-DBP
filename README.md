@@ -56,8 +56,9 @@
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)&nbsp;
 ![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)&nbsp;
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)&nbsp;
-
 <br>
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Sami-63&show_icons=true&theme=merko#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melovalent-dbp&show_icons=true&locale=en&layout=compact" alt="melovalent-dbp" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melovalent-dbp&show_icons=true&locale=en" alt="melovalent-dbp" /></p>
