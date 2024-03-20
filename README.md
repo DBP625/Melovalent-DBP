@@ -1,5 +1,5 @@
 <!--![logo](src)-->
-<h1 align="center">Hi 👋, I'm Denesh Barua Pantho</h1>
+<h1 align="center">Hi there 👋, I'm Denesh Barua Pantho</h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F706&random=false&width=435&lines=Student+at+CSE+%2C+CUET" alt="Typing SVG" /></a>
 </p>
